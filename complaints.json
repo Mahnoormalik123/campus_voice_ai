@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "student_username": "mahnoor",
+    "anonymous_id": "ANON-5348",
+    "department": "AI",
+    "text": "my teacher is not uploading marks on avicenna so we are not aware of where we stand.",
+    "category": "Faculty Complaint",
+    "sentiment": "Negative",
+    "priority": "Low",
+    "toxic": false,
+    "summary": "Complaint about Faculty Complaint with Negative sentiment and Low priority.",
+    "status": "Resolved",
+    "created_at": "2026-05-20T18:09:38.441712"
+  },
+  {
+    "id": 2,
+    "student_username": "ayesha",
+    "anonymous_id": "ANON-5838",
+    "department": "CY",
+    "text": "lab 5 computers are not working well.",
+    "category": "Academic Issue",
+    "sentiment": "Negative",
+    "priority": "Low",
+    "toxic": false,
+    "summary": "Complaint about Academic Issue with Negative sentiment and Low priority.",
+    "status": "Resolved",
+    "created_at": "2026-05-20T18:36:33.876813"
+  },
+  {
+    "id": 3,
+    "student_username": "ali",
+    "anonymous_id": "ANON-8695",
+    "department": "DS",
+    "text": "teacher is only reading slides and not explaining it well.",
+    "category": "Faculty Complaint",
+    "sentiment": "Negative",
+    "priority": "Low",
+    "toxic": false,
+    "summary": "Complaint about Faculty Complaint with Negative sentiment and Low priority.",
+    "status": "Pending",
+    "created_at": "2026-05-20T18:46:37.226016"
+  },
+  {
+    "id": 4,
+    "student_username": "ali",
+    "anonymous_id": "ANON-8695",
+    "department": "DS",
+    "text": "i will suicide",
+    "category": "Academic Issue",
+    "sentiment": "Negative",
+    "priority": "High",
+    "toxic": true,
+    "summary": "Complaint about Academic Issue with Negative sentiment and High priority.",
+    "status": "Resolved",
+    "created_at": "2026-05-20T18:47:21.598337"
+  }
+]

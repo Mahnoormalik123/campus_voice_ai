@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "student_username": "mahnoor",
+    "anonymous_id": "ANON-4827",
+    "department": "AI",
+    "text": "my english teacher is not giving us good grades and she only read slides.",
+    "category": "Faculty Complaint",
+    "sentiment": "Negative",
+    "priority": "Low",
+    "toxic": false,
+    "summary": "Complaint about Faculty Complaint with Negative sentiment and Low priority.",
+    "status": "Resolved"
+  }
+]

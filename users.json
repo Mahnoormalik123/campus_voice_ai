@@ -1,0 +1,23 @@
+{
+  "students": {
+    "mahnoor": {
+      "name": "mahnoor",
+      "password": "mahnoor",
+      "department": "AI"
+    },
+    "ayesha": {
+      "name": "Ayesha",
+      "password": "ayesha",
+      "department": "CY"
+    },
+    "ali": {
+      "name": "Ali",
+      "password": "ali",
+      "department": "DS"
+    }
+  },
+  "admin": {
+    "username": "chairperson",
+    "password": "cs.chairperson"
+  }
+}

@@ -1,0 +1,205 @@
+text,category,sentiment,priority,department
+Teacher is unfair and does not explain lectures well,Faculty Complaint,Negative,Medium,CS
+Hostel security is weak at night and students feel unsafe,Hostel Issue,Fearful,High,Hostel
+I am stressed because of exam overload and anxiety,Mental Health,Stressed,High,Psychology
+Labs are often closed during scheduled time,Academic Issue,Negative,Medium,Engineering
+A student is being harassed in the cafeteria,Harassment,Angry,High,General
+Department timetable is confusing and classes overlap,Academic Issue,Neutral,Low,Business
+Washrooms are dirty and need maintenance,Hostel Issue,Negative,Medium,Hostel
+I feel depressed and need counseling support,Mental Health,Stressed,High,Psychology
+Professor returned grades late again,Faculty Complaint,Negative,Low,CS
+Someone threatened me in the hostel corridor,Harassment,Fearful,High,Hostel
+Library hours are good and staff is helpful,Academic Issue,Positive,Low,Library
+Canteen food quality is poor and expensive,General Complaint,Negative,Medium,Cafeteria
+Internet in hostel is unstable and slow,Hostel Issue,Negative,Medium,Hostel
+Counseling center should have more appointments,Mental Health,Neutral,Low,Psychology
+Teacher shouted during class and embarrassed students,Faculty Complaint,Angry,High,CS
+There is a threat from unknown person near gate,Harassment,Fearful,High,Security
+Assignments are too many this week,Academic Issue,Stressed,Medium,Engineering
+The hostel water supply is excellent,Hostel Issue,Positive,Low,Hostel
+Class schedule is not updated on time,Academic Issue,Neutral,Low,Business
+The department office is very helpful,General Complaint,Positive,Low,Administration
+The quiz was unfair and too difficult,Academic Issue,Negative,Medium,CS
+Hostel lights are broken on our floor,Hostel Issue,Negative,High,Hostel
+I need mental health counseling urgently,Mental Health,Stressed,High,Psychology
+The professor ignores student questions,Faculty Complaint,Negative,Medium,CS
+Someone is bullying juniors in the hostel,Harassment,Angry,High,Hostel
+The lab assistant was rude to students,Faculty Complaint,Negative,Medium,Engineering
+Food in the cafeteria is cold every day,General Complaint,Negative,Medium,Cafeteria
+The class is well organized today,Academic Issue,Positive,Low,Business
+I feel unsafe walking back from campus at night,Hostel Issue,Fearful,High,Security
+The dean listened to our complaint carefully,General Complaint,Positive,Low,Administration
+My anxiety is getting worse before exams,Mental Health,Stressed,High,Psychology
+Lecture slides are not uploaded on LMS,Academic Issue,Negative,Medium,CS
+The hostel washroom smell is very bad,Hostel Issue,Negative,Medium,Hostel
+A student threatened me in the classroom,Harassment,Fearful,High,General
+The teacher gives helpful feedback on homework,Faculty Complaint,Positive,Low,CS
+Library computers are always occupied,Academic Issue,Negative,Low,Library
+I am feeling hopeless and need support,Mental Health,Stressed,High,Psychology
+Campus transport is late every morning,General Complaint,Negative,Medium,Administration
+The hostel gate is not monitored properly,Hostel Issue,Negative,High,Security
+Professor uses unfair marking criteria,Faculty Complaint,Negative,Medium,CS
+There was shouting and harassment in the corridor,Harassment,Angry,High,Hostel
+The exam schedule was shared on time,Academic Issue,Positive,Low,Business
+The cafeteria menu has good variety,General Complaint,Positive,Low,Cafeteria
+Room cleaning is not done regularly,Hostel Issue,Negative,Medium,Hostel
+I cannot concentrate because of stress,Mental Health,Stressed,High,Psychology
+The assignment deadline is impossible,Academic Issue,Negative,Medium,Engineering
+The faculty member was very supportive,Faculty Complaint,Positive,Low,CS
+Someone keeps threatening students online,Harassment,Fearful,High,Security
+The hostel environment is peaceful,Hostel Issue,Positive,Low,Hostel
+My course schedule keeps changing,Academic Issue,Negative,Medium,Business
+The administration solved my problem fast,General Complaint,Positive,Low,Administration
+Teacher is unfair and does not explain lectures well,Faculty Complaint,Negative,Medium,CS
+Hostel security is weak at night and students feel unsafe,Hostel Issue,Fearful,High,Hostel
+I am stressed because of exam overload and anxiety,Mental Health,Stressed,High,Psychology
+Labs are often closed during scheduled time,Academic Issue,Negative,Medium,Engineering
+A student is being harassed in cafeteria,Harassment,Angry,High,General
+Department timetable is confusing and classes overlap,Academic Issue,Neutral,Low,Business
+Washrooms are dirty and need maintenance,Hostel Issue,Negative,Medium,Hostel
+I feel depressed and need counseling support,Mental Health,Stressed,High,Psychology
+Professor returned grades late again,Faculty Complaint,Negative,Low,CS
+Someone threatened me in hostel corridor,Harassment,Fearful,High,Hostel
+Library hours are good and staff is helpful,Academic Issue,Positive,Low,Library
+Canteen food quality is poor and expensive,General Complaint,Negative,Medium,Cafeteria
+Internet in hostel is unstable and slow,Hostel Issue,Negative,Medium,Hostel
+Counseling center should have more appointments,Mental Health,Neutral,Low,Psychology
+Teacher shouted during class and embarrassed students,Faculty Complaint,Angry,High,CS
+There is a threat from unknown person near gate,Harassment,Fearful,High,Security
+Assignments are too many this week,Academic Issue,Stressed,Medium,Engineering
+hostel water supply is excellent,Hostel Issue,Positive,Low,Hostel
+Class schedule is not updated on time,Academic Issue,Neutral,Low,Business
+department office is very helpful,General Complaint,Positive,Low,Administration
+quiz was unfair and too difficult,Academic Issue,Negative,Medium,CS
+Hostel lights are broken on our floor,Hostel Issue,Negative,High,Hostel
+I need mental health counseling urgently,Mental Health,Stressed,High,Psychology
+professor ignores student questions,Faculty Complaint,Negative,Medium,CS
+Someone is bullying juniors in hostel,Harassment,Angry,High,Hostel
+lab assistant was rude to students,Faculty Complaint,Negative,Medium,Engineering
+Food in cafeteria is cold every day,General Complaint,Negative,Medium,Cafeteria
+class is well organized today,Academic Issue,Positive,Low,Business
+I feel unsafe walking back from campus at night,Hostel Issue,Fearful,High,Security
+dean listened to our complaint carefully,General Complaint,Positive,Low,Administration
+My anxiety is getting worse before exams,Mental Health,Stressed,High,Psychology
+Lecture slides are not uploaded on LMS,Academic Issue,Negative,Medium,CS
+hostel washroom smell is very bad,Hostel Issue,Negative,Medium,Hostel
+A student threatened me in classroom,Harassment,Fearful,High,General
+teacher gives helpful feedback on homework,Faculty Complaint,Positive,Low,CS
+Library computers are always occupied,Academic Issue,Negative,Low,Library
+I am feeling hopeless and need support,Mental Health,Stressed,High,Psychology
+Campus transport is late every morning,General Complaint,Negative,Medium,Administration
+hostel gate is not monitored properly,Hostel Issue,Negative,High,Security
+Professor uses unfair marking criteria,Faculty Complaint,Negative,Medium,CS
+There was shouting and harassment in corridor,Harassment,Angry,High,Hostel
+exam schedule was shared on time,Academic Issue,Positive,Low,Business
+cafeteria menu has good variety,General Complaint,Positive,Low,Cafeteria
+Room cleaning is not done regularly,Hostel Issue,Negative,Medium,Hostel
+I cannot concentrate because of stress,Mental Health,Stressed,High,Psychology
+assignment deadline is impossible,Academic Issue,Negative,Medium,Engineering
+faculty member was very supportive,Faculty Complaint,Positive,Low,CS
+Someone keeps threatening students online,Harassment,Fearful,High,Security
+hostel environment is peaceful,Hostel Issue,Positive,Low,Hostel
+My course schedule keeps changing,Academic Issue,Negative,Medium,Business
+administration solved my problem fast,General Complaint,Positive,Low,Administration
+Teacher is unfair and does not explain lectures well please help,Faculty Complaint,Negative,Medium,CS
+Hostel security is weak at night and students feel unsafe please help,Hostel Issue,Fearful,High,Hostel
+I am stressed because of exam overload and anxiety please help,Mental Health,Stressed,High,Psychology
+Labs are often closed during scheduled time please help,Academic Issue,Negative,Medium,Engineering
+A student is being harassed in the cafeteria please help,Harassment,Angry,High,General
+Department timetable is confusing and classes overlap please help,Academic Issue,Neutral,Low,Business
+Washrooms are dirty and need maintenance please help,Hostel Issue,Negative,Medium,Hostel
+I feel depressed and need counseling support please help,Mental Health,Stressed,High,Psychology
+Professor returned grades late again please help,Faculty Complaint,Negative,Low,CS
+Someone threatened me in the hostel corridor please help,Harassment,Fearful,High,Hostel
+Library hours are good and staff is helpful please help,Academic Issue,Positive,Low,Library
+Canteen food quality is poor and expensive please help,General Complaint,Negative,Medium,Cafeteria
+Internet in hostel is unstable and slow please help,Hostel Issue,Negative,Medium,Hostel
+Counseling center should have more appointments please help,Mental Health,Neutral,Low,Psychology
+Teacher shouted during class and embarrassed students please help,Faculty Complaint,Angry,High,CS
+There is a threat from unknown person near gate please help,Harassment,Fearful,High,Security
+Assignments are too many this week please help,Academic Issue,Stressed,Medium,Engineering
+The hostel water supply is excellent please help,Hostel Issue,Positive,Low,Hostel
+Class schedule is not updated on time please help,Academic Issue,Neutral,Low,Business
+The department office is very helpful please help,General Complaint,Positive,Low,Administration
+The quiz was unfair and too difficult please help,Academic Issue,Negative,Medium,CS
+Hostel lights are broken on our floor please help,Hostel Issue,Negative,High,Hostel
+I need mental health counseling urgently please help,Mental Health,Stressed,High,Psychology
+The professor ignores student questions please help,Faculty Complaint,Negative,Medium,CS
+Someone is bullying juniors in the hostel please help,Harassment,Angry,High,Hostel
+The lab assistant was rude to students please help,Faculty Complaint,Negative,Medium,Engineering
+Food in the cafeteria is cold every day please help,General Complaint,Negative,Medium,Cafeteria
+The class is well organized today please help,Academic Issue,Positive,Low,Business
+I feel unsafe walking back from campus at night please help,Hostel Issue,Fearful,High,Security
+The dean listened to our complaint carefully please help,General Complaint,Positive,Low,Administration
+My anxiety is getting worse before exams please help,Mental Health,Stressed,High,Psychology
+Lecture slides are not uploaded on LMS please help,Academic Issue,Negative,Medium,CS
+The hostel washroom smell is very bad please help,Hostel Issue,Negative,Medium,Hostel
+A student threatened me in the classroom please help,Harassment,Fearful,High,General
+The teacher gives helpful feedback on homework please help,Faculty Complaint,Positive,Low,CS
+Library computers are always occupied please help,Academic Issue,Negative,Low,Library
+I am feeling hopeless and need support please help,Mental Health,Stressed,High,Psychology
+Campus transport is late every morning please help,General Complaint,Negative,Medium,Administration
+The hostel gate is not monitored properly please help,Hostel Issue,Negative,High,Security
+Professor uses unfair marking criteria please help,Faculty Complaint,Negative,Medium,CS
+There was shouting and harassment in the corridor please help,Harassment,Angry,High,Hostel
+The exam schedule was shared on time please help,Academic Issue,Positive,Low,Business
+The cafeteria menu has good variety please help,General Complaint,Positive,Low,Cafeteria
+Room cleaning is not done regularly please help,Hostel Issue,Negative,Medium,Hostel
+I cannot concentrate because of stress please help,Mental Health,Stressed,High,Psychology
+The assignment deadline is impossible please help,Academic Issue,Negative,Medium,Engineering
+The faculty member was very supportive please help,Faculty Complaint,Positive,Low,CS
+Someone keeps threatening students online please help,Harassment,Fearful,High,Security
+The hostel environment is peaceful please help,Hostel Issue,Positive,Low,Hostel
+My course schedule keeps changing please help,Academic Issue,Negative,Medium,Business
+The administration solved my problem fast please help,General Complaint,Positive,Low,Administration
+Teacher is unfair and does not explain lectures well urgently,Faculty Complaint,Negative,Medium,CS
+Hostel security is weak at night and students feel unsafe urgently,Hostel Issue,Fearful,High,Hostel
+I am stressed because of exam overload and anxiety urgently,Mental Health,Stressed,High,Psychology
+Labs are often closed during scheduled time urgently,Academic Issue,Negative,Medium,Engineering
+A student is being harassed in the cafeteria urgently,Harassment,Angry,High,General
+Department timetable is confusing and classes overlap urgently,Academic Issue,Neutral,Low,Business
+Washrooms are dirty and need maintenance urgently,Hostel Issue,Negative,Medium,Hostel
+I feel depressed and need counseling support urgently,Mental Health,Stressed,High,Psychology
+Professor returned grades late again urgently,Faculty Complaint,Negative,Low,CS
+Someone threatened me in the hostel corridor urgently,Harassment,Fearful,High,Hostel
+Library hours are good and staff is helpful urgently,Academic Issue,Positive,Low,Library
+Canteen food quality is poor and expensive urgently,General Complaint,Negative,Medium,Cafeteria
+Internet in hostel is unstable and slow urgently,Hostel Issue,Negative,Medium,Hostel
+Counseling center should have more appointments urgently,Mental Health,Neutral,Low,Psychology
+Teacher shouted during class and embarrassed students urgently,Faculty Complaint,Angry,High,CS
+There is a threat from unknown person near gate urgently,Harassment,Fearful,High,Security
+Assignments are too many this week urgently,Academic Issue,Stressed,Medium,Engineering
+The hostel water supply is excellent urgently,Hostel Issue,Positive,Low,Hostel
+Class schedule is not updated on time urgently,Academic Issue,Neutral,Low,Business
+The department office is very helpful urgently,General Complaint,Positive,Low,Administration
+The quiz was unfair and too difficult urgently,Academic Issue,Negative,Medium,CS
+Hostel lights are broken on our floor urgently,Hostel Issue,Negative,High,Hostel
+I need mental health counseling urgently urgently,Mental Health,Stressed,High,Psychology
+The professor ignores student questions urgently,Faculty Complaint,Negative,Medium,CS
+Someone is bullying juniors in the hostel urgently,Harassment,Angry,High,Hostel
+The lab assistant was rude to students urgently,Faculty Complaint,Negative,Medium,Engineering
+Food in the cafeteria is cold every day urgently,General Complaint,Negative,Medium,Cafeteria
+The class is well organized today urgently,Academic Issue,Positive,Low,Business
+I feel unsafe walking back from campus at night urgently,Hostel Issue,Fearful,High,Security
+The dean listened to our complaint carefully urgently,General Complaint,Positive,Low,Administration
+My anxiety is getting worse before exams urgently,Mental Health,Stressed,High,Psychology
+Lecture slides are not uploaded on LMS urgently,Academic Issue,Negative,Medium,CS
+The hostel washroom smell is very bad urgently,Hostel Issue,Negative,Medium,Hostel
+A student threatened me in the classroom urgently,Harassment,Fearful,High,General
+The teacher gives helpful feedback on homework urgently,Faculty Complaint,Positive,Low,CS
+Library computers are always occupied urgently,Academic Issue,Negative,Low,Library
+I am feeling hopeless and need support urgently,Mental Health,Stressed,High,Psychology
+Campus transport is late every morning urgently,General Complaint,Negative,Medium,Administration
+The hostel gate is not monitored properly urgently,Hostel Issue,Negative,High,Security
+Professor uses unfair marking criteria urgently,Faculty Complaint,Negative,Medium,CS
+There was shouting and harassment in the corridor urgently,Harassment,Angry,High,Hostel
+The exam schedule was shared on time urgently,Academic Issue,Positive,Low,Business
+The cafeteria menu has good variety urgently,General Complaint,Positive,Low,Cafeteria
+Room cleaning is not done regularly urgently,Hostel Issue,Negative,Medium,Hostel
+I cannot concentrate because of stress urgently,Mental Health,Stressed,High,Psychology
+The assignment deadline is impossible urgently,Academic Issue,Negative,Medium,Engineering
+The faculty member was very supportive urgently,Faculty Complaint,Positive,Low,CS
+Someone keeps threatening students online urgently,Harassment,Fearful,High,Security
+The hostel environment is peaceful urgently,Hostel Issue,Positive,Low,Hostel
+My course schedule keeps changing urgently,Academic Issue,Negative,Medium,Business
+The administration solved my problem fast urgently,General Complaint,Positive,Low,Administration
